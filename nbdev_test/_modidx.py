@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://jope35.github.io',
                 'git_url': 'https://github.com/jope35/nbdev_test',
                 'lib_path': 'nbdev_test'},
-  'syms': {'nbdev_test.core': {'nbdev_test.core.foo': ('core.html#foo', 'nbdev_test/core.py')}}}
+  'syms': { 'nbdev_test.core': { 'nbdev_test.core.calc_pacf': ('acf_plotter.html#calc_pacf', 'nbdev_test/core.py'),
+                                 'nbdev_test.core.plot_acf': ('acf_plotter.html#plot_acf', 'nbdev_test/core.py')}}}
