@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://jope35.github.io/nbdev_test"
+  description: "testdrive of the nbdev workflow"
+  repo-branch: main
+  repo-url: "https://github.com/jope35/nbdev_test"
