@@ -1,0 +1,17 @@
+name: nbdev
+channels:
+  - defaults
+dependencies:
+  - python[version='<3.10']
+  - notebook
+  - black
+  - isort
+  - flake8
+  - ca-certificates
+  - certifi
+  - openssl
+  - nbdev
+  - pandas
+  - statsmodels
+  - seaborn
+prefix: /opt/miniconda3/envs/nbdev
